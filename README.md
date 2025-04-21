@@ -29,14 +29,14 @@
 
 ### 💼 Projects
 
-#### 🔹 **Expenza** – [GitHub Link (if public)]()
+#### 🔹 **Expenza** – [GitHub Link](https://github.com/Shivam7262/Expenza)
 > A full-featured expense tracker app  
 > 🔹 Add & categorize expenses  
 > 🔹 Split transactions between people  
 > 🔹 Live balance calculation  
 > 🔹 Built with **MERN Stack**
 
-#### 🔹 **Food Delivery App with AI Chatbot** – [GitHub Link (if public)]()
+#### 🔹 **Food Delivery App with AI Chatbot** – [GitHub Link](https://github.com/Shivam7262/crave-kart)
 > 🚀 Food ordering platform with shop and menu management  
 > 🔹 Stripe payment integration  
 > 🔹 Firebase Auth  
