@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 💻 Currently pursuing **B.Tech in Computer Science (2021–2025)** at IILM College Of Engineering & Technology  
-- 🌱 I’m currently learning **DevOps**, **AI integrations**, and building scalable systems  
+- 🌱 I’m currently Building **full-stack apps**, **AI integrations**, and building scalable systems  
 - 🛠️ I love working with the **MERN stack**, building clean UIs, and crafting smooth user experiences  
 - 📫 How to reach me: **sahshivam73200@gmail.com**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shivam-kumar-054287226)
