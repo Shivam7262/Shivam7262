@@ -14,16 +14,7 @@
 
 ### 🛠️ Tech Stack
 **Languages & Tools:**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+<p align="left"> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" alt="Java"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react" alt="React"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB"/> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase" alt="Firebase"/> <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux" alt="Redux"/> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman" alt="Postman"/> </p>
 
 ---
 
