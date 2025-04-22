@@ -49,7 +49,8 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shivam7262&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shivam7262&theme=darkhub&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ### 📫 Let's Connect!
