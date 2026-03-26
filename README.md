@@ -51,19 +51,10 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam7262&show_icons=true&theme=radical" alt="Shivam's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam7262&theme=radical" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam7262&layout=compact&theme=radical"/>
-</p>
    
 ---
 
 ## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shivam7262&theme=darkhub&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
