@@ -48,16 +48,6 @@
 > 🔹 Built using **React, Node.js, Express, MongoDB, Stripe, Firebase**
 
 ---
-
-### 📈 GitHub Stats
-
-   
----
-
-## 🏆 GitHub Trophies
-
-
-
 ### 📫 Let's Connect!
 - 📧 sahshivam73200@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shivam-kumar-054287226)
